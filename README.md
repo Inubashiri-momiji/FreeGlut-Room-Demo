@@ -27,4 +27,4 @@ This app requires manual linking of requeriment files in Main.cpp on init functi
      printf("Error cargando textura de estrella\n");
 ```
 
-Video: [Youtube](https://www.youtube.com/watch?v=ixirlkI1wqM)
+Demo video: [Youtube](https://www.youtube.com/watch?v=ixirlkI1wqM)
